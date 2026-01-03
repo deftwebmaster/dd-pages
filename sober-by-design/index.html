@@ -492,6 +492,24 @@
       text-transform: uppercase;
     }
 
+    .contact {
+      margin-top: 16px;
+      font-family: var(--font-heading);
+      font-size: 12px;
+      color: var(--color-text-dim);
+    }
+
+    .contact a {
+      color: var(--color-text-muted);
+      text-decoration: none;
+      border-bottom: 1px solid var(--color-line);
+      transition: color 0.2s ease;
+    }
+
+    .contact a:hover {
+      color: var(--color-text);
+    }
+
     /* Animations */
     @keyframes fadeUp {
       from {
@@ -675,7 +693,7 @@
       <div class="container">
         <div class="price">$7</div>
         <p class="price-note">Less than two drinks. One decision that moves you forward.</p>
-        <a href="https://matt.st/sober-by-design/buy/" class="cta-button">Get the Book →</a>
+        <a href="https://deftdraft.com/sober-by-design/buy/" class="cta-button">Get the Book →</a>
       </div>
     </div>
 
@@ -713,6 +731,7 @@
     <div class="container">
       <p class="author-note">Written by someone <span id="sober-time"></span> sober who built these systems firsthand.</p>
       <p class="guarantee">100% money-back guarantee · Not working for you? Just ask.</p>
+      <p class="contact"><a href="mailto:matt@deftdraft.com">matt@deftdraft.com</a></p>
     </div>
   </footer>
 
