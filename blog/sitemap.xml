@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://deftdraft.com/blog/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://deftdraft.com/blog/</loc>
+</url>
+<url>
+<loc>https://deftdraft.com/blog/3-reasons-screen-detoxes-dont-last-and-what-does/</loc>
+<lastmod>2026-01-08T00:02:09-06:00</lastmod>
+<image:image>
+<image:loc>https://deftdraft.com/blog/media/posts/3/screen-detoxes-dont-last.png</image:loc>
+<image:title><![CDATA[3 Reasons Screen Detoxes Don't Last]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://deftdraft.com/blog/how-to-break-a-phone-addiction-without-going-cold-turkey/</loc>
+<lastmod>2026-01-07T23:53:08-06:00</lastmod>
+<image:image>
+<image:loc>https://deftdraft.com/blog/media/posts/2/break-phone-addiction.png</image:loc>
+<image:title><![CDATA[How to Break a Phone Addiction Without Going Cold Turkey]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://deftdraft.com/blog/why-you-cant-put-your-phone-down-even-when-you-want-to/</loc>
+<lastmod>2026-01-08T00:02:04-06:00</lastmod>
+<image:image>
+<image:loc>https://deftdraft.com/blog/media/posts/1/why-you-cant-put-your-phone-down-infinite.png</image:loc>
+<image:title><![CDATA[Why You Can't Put Your Phone Down]]></image:title>
+</image:image>
+</url>
+</urlset>

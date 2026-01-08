@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://deftdraft.com/blog/sitemap.xml
